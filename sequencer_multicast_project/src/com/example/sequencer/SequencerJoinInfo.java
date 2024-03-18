@@ -1,4 +1,5 @@
-package sequencer;
+
+package com.example.sequencer;
 import java.io.*;
 import java.net.*;
 
